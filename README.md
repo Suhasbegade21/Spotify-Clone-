@@ -1,2 +1,3 @@
-# Spotify-Clone-
+# Spotify-Clone
+
 Basic outline for Spotify Web-App
